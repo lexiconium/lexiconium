@@ -1,4 +1,9 @@
-[![lexiconium's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexiconium&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/lexiconium">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=lexiconium&show_icons=true&hide_border=true" />
+</a>
+<!-- <a href="https://github.com/lexiconium">
+  <img align="top" width=300 src="coffee.gif" />
+</a> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexiconium&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
