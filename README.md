@@ -5,7 +5,7 @@
   <img align="top" width=300 src="coffee.gif" />
 </a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexiconium&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexiconium&layout=compact&hide_border=true)](https://github.com/lexiconium)
 
 <!--
 **lexiconium/lexiconium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
